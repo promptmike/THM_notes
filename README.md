@@ -14,7 +14,7 @@ I apply the same active recall method used across my other studies:
 1. Read → Summarise each key idea in one line
 2. Track → Append a second line summarising progress through the room/module
 3. Repeat → Build a layered map of understanding over time
-This pairing system helps me retain techniques and concepts without needing to re-do rooms before review.
+This pairing system helps me retain techniques and concepts without needing to re-do rooms before review.  
 **Further Reading:** For a deeper dive into this method, watch [this video by Dr. Jeffrey Kaplan](https://www.youtube.com/watch?v=uiNB-6SuqVA)
 
 ## 🔍 Notes on Style
